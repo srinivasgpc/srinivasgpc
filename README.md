@@ -49,4 +49,4 @@ I'm Srinivas Gaddam a Full Stack Developer in Website Design and developement. I
 - :email: srinivasgaddam423@gmail.com
 #### Github Stats
 
-![Srinivas's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Srinivas's github stats](https://github-readme-stats.vercel.app/api?username=srinivasgpc&count_private=true&theme=tokyonight&hide=contribs,prs)

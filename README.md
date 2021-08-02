@@ -35,7 +35,7 @@
 </h3>
 
 <p >
- <!-- <img src="https://andyruwruw.vercel.app/api/skills">  -->
+<img src="https://andyruwruw.vercel.app/api/skills"> 
 </p>
 
 

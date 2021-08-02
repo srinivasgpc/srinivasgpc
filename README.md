@@ -19,7 +19,7 @@
 - 📫 reach me through mail srinivasgaddam423@gmail.com
 - ⚡ Fun fact: I play games and Swim very often
 <p></p>
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="400" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 <h1>Top Technologies</h1>
 
 <!-- TODO: Make technologies links takes you to repositories -->

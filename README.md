@@ -1,6 +1,6 @@
 ### Hi I'm Srinivas 👋
 
-I'm Srinivas Gaddam a Full Stack Developer in Website Design and developement. I Spend most of the time coding outstanding projects with latest technology.
+ Full Stack Developer in Website Design and developement. I Spend most of the time coding outstanding projects with latest technology.
 
 
 🔭  Reach me out!

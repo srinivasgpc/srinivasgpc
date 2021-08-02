@@ -39,8 +39,6 @@
 </p>
 
 <br />
-<br />
-
 #### CV
 - :paperclip: [My Resume/CV](PurnaGaddam_Resume.pdf)
 - :email: srinivasgaddam423@gmail.com

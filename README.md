@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi I'm Srinivas 👋
 
-<!--
-**srinivasgpc/srinivasgpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Srinivas Gaddam a Full Stack Developer in Website Design and developement. I Spend most of the time coding outstanding projects with latest technology.
 
-Here are some ideas to get you started:
+🔭  Reach me out!
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/s_geddam)[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purnagaddam93/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:srinivasgaddam423@gmail.com)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

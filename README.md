@@ -4,8 +4,9 @@
 
 <p></p>
 
-<h2>🔭  Reach me out!</h2>
-<p></p>
+🔭  Reach me out!
+
+
 [![Twitter Badge](https://img.shields.io/badge/-@s_geddam-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/s_geddam)[![Linkedin Badge](https://img.shields.io/badge/-SrinivasGaddam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purnagaddam93/) [![Mail Badge](https://img.shields.io/badge/-srinivasgaddam423-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:srinivasgaddam423@gmail.com)
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 

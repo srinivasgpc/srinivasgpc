@@ -28,15 +28,13 @@
 
 <br />
 <br />
-
-
-
-
+<br />
+<br />
 <h3>
   i'm a fan of React.js, but i do some other stuff too :hammer:
 </h3>
 
-<p align="center" >
+<p >
   <img src="https://andyruwruw.vercel.app/api/skills">
 </p>
 

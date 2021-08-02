@@ -1,9 +1,10 @@
-### Hi I'm Srinivas 👋
+<h1> Hi I'm Srinivas 👋</h1>
 
- Full Stack Developer in Website Design and developement. I Spend most of the time coding outstanding projects with latest technology.
+ <p>Full Stack Developer in Website Design and developement. I Spend most of the time coding outstanding projects with latest technology.</p>
 
+<p></p>
 
-🔭  Reach me out!
+<h2>🔭  Reach me out!</h2>
 [![Twitter Badge](https://img.shields.io/badge/-@s_geddam-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/s_geddam)[![Linkedin Badge](https://img.shields.io/badge/-SrinivasGaddam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purnagaddam93/) [![Mail Badge](https://img.shields.io/badge/-srinivasgaddam423-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:srinivasgaddam423@gmail.com)
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -15,7 +16,7 @@
 - 📫 reach me through mail srinivasgaddam423@gmail.com
 - ⚡ Fun fact: I play games and Swim very often
 
-#### Top Technologies
+<h1>Top Technologies</h1>
 
 <!-- TODO: Make technologies links takes you to repositories -->
 

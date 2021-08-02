@@ -13,14 +13,12 @@
 
 
 <p></p>
-<ul>
- <li>
+
 - 🔭 I’m currently working on google SEO tools at Biscuitdata
-   </li>
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 reach me through mail srinivasgaddam423@gmail.com
 - ⚡ Fun fact: I play games and Swim very often
-</ul>
+<p></p>
 <h1>Top Technologies</h1>
 
 <!-- TODO: Make technologies links takes you to repositories -->

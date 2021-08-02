@@ -38,7 +38,9 @@
   <img src="https://andyruwruw.vercel.app/api/skills">
 </p>
 
+
 <br />
+
 #### CV
 - :paperclip: [My Resume/CV](PurnaGaddam_Resume.pdf)
 - :email: srinivasgaddam423@gmail.com

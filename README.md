@@ -41,7 +41,7 @@
 
 <br />
 
-#### CV
+
 
 - :email: srinivasgaddam423@gmail.com
 #### Github Stats

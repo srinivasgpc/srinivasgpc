@@ -14,7 +14,7 @@
 
 <p></p>
 
-- 🔭 I’m currently working on google SEO tools at Biscuitdata
+- 🔭 I’m currently working remote.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 reach me through mail srinivasgaddam423@gmail.com
 - ⚡ Fun fact: I enjoy playing games and outdoor Swim very often

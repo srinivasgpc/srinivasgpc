@@ -1,10 +1,3 @@
-# Srinivas Gaddam
-## Freelance Software Developer
-
-
-
-
-
 
 <h1> Hi I'm Srinivas 👋</h1>
 

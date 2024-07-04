@@ -63,16 +63,6 @@ Experienced freelance software developer with a passion for creating efficient, 
 - AWS Certified Developer - Associate
 <p></p>
 
-🔭  Reach me out!
-
-
-[![Twitter Badge](https://img.shields.io/badge/-@s_geddam-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/s_geddam)[![Linkedin Badge](https://img.shields.io/badge/-SrinivasGaddam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purnagaddam93/) [![Mail Badge](https://img.shields.io/badge/-srinivasgaddam423-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:srinivasgaddam423@gmail.com)
-
-
-
-
-<p></p>
-
 - 🔭 I’m currently working remote.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - ⚡ Fun fact: I enjoy playing games and outdoor Swim very often
@@ -101,10 +91,15 @@ Experienced freelance software developer with a passion for creating efficient, 
 
 ---
 
-## Contact
-- **Email:** srinivasgaddam423@gmail.com
-- **LinkedIn:** [linkedin.com/in/johndoe](https://www.linkedin.com/in/futurism9879a342/)
-- **GitHub:** [github.com/johndoe](https://github.com/srinivasgpc)
+## 🔭  Reach me out!
+
+
+[![Twitter Badge](https://img.shields.io/badge/-@s_geddam-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/s_geddam93)[![Linkedin Badge](https://img.shields.io/badge/-SrinivasGaddam-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/futurism9879a342/) [![Mail Badge](https://img.shields.io/badge/-srinivasgaddam423-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:srinivasgaddam423@gmail.com)
+
+
+
+
+<p></p>
 
 ---
 

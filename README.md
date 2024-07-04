@@ -1,3 +1,74 @@
+# John Doe
+## Freelance Software Developer
+
+---
+
+## Summary
+Experienced freelance software developer with a passion for creating efficient, scalable solutions. Skilled in full-stack development, with expertise in backend systems architecture and frontend user interfaces. Committed to delivering high-quality code and excellent user experiences. Seeking challenging projects to contribute expertise and drive business growth.
+
+---
+
+## Skills
+- **Languages:** Python, JavaScript, SQL
+- **Frameworks/Libraries:** Django, React.js, Node.js
+- **Database:** PostgreSQL, MongoDB
+- **Tools/Platforms:** Git, Docker, AWS
+
+---
+
+## Experience
+
+### Freelance Software Developer
+*Month Year - Present | Remote*
+
+- Developed custom web applications for various clients, ensuring robust performance and scalability.
+- Collaborated with clients to gather requirements, propose solutions, and deliver software that meets business objectives.
+- Implemented RESTful APIs and integrated third-party services to enhance application functionality.
+- Designed and optimized databases to ensure efficient data storage and retrieval.
+
+---
+
+## Projects
+
+### E-commerce Platform
+*Technologies: Django, React.js, PostgreSQL*
+
+- Led development of a responsive e-commerce platform, enabling client to increase online sales by 30%.
+- Implemented user authentication, product management, and checkout functionality with secure payment gateway integration.
+- Optimized frontend performance and improved SEO ranking through responsive design and server-side rendering.
+
+### Task Management App
+*Technologies: Node.js, Express, MongoDB*
+
+- Built a task management application with real-time updates using WebSockets, enhancing team collaboration and productivity.
+- Designed RESTful API endpoints and implemented CRUD operations for tasks and user profiles.
+- Deployed application on AWS EC2 instance and configured Docker containers for development and production environments.
+
+---
+
+## Education
+- **Bachelor of Science in Computer Science**
+  *University Name, Graduation Year*
+
+---
+
+## Certifications
+- AWS Certified Developer - Associate
+
+---
+
+## Contact
+- **Email:** john.doe@example.com
+- **LinkedIn:** [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
+- **GitHub:** [github.com/johndoe](https://github.com/johndoe)
+
+---
+
+## Availability
+- Open to new freelance opportunities. Flexible hours and willing to discuss project details and requirements.
+
+
+
 <h1> Hi I'm Srinivas 👋</h1>
 
  <p>Full Stack Developer in Website Design and developement. I Spend most of the time coding outstanding projects with latest technology.</p>

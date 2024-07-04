@@ -75,7 +75,6 @@ Experienced freelance software developer with a passion for creating efficient, 
 
 - 🔭 I’m currently working remote.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 reach me through mail srinivasgaddam423@gmail.com
 - ⚡ Fun fact: I enjoy playing games and outdoor Swim very often
 <p></p>
 
@@ -89,9 +88,7 @@ Experienced freelance software developer with a passion for creating efficient, 
 <br />
 <br />
 <br />
-<h3>
-  I'm a fan of React.js, but I do some other stuff too :hammer:
-</h3>
+
 
 <p >
 <img src="https://andyruwruw.vercel.app/api/skills"> 

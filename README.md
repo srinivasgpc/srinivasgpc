@@ -1,5 +1,12 @@
-# John Doe
+# Srinivas Gaddam
 ## Freelance Software Developer
+
+
+
+
+
+
+<h1> Hi I'm Srinivas 👋</h1>
 
 ---
 
@@ -19,7 +26,7 @@ Experienced freelance software developer with a passion for creating efficient, 
 ## Experience
 
 ### Freelance Software Developer
-*Month Year - Present | Remote*
+*April 2021 - Present | Remote*
 
 - Developed custom web applications for various clients, ensuring robust performance and scalability.
 - Collaborated with clients to gather requirements, propose solutions, and deliver software that meets business objectives.
@@ -48,31 +55,12 @@ Experienced freelance software developer with a passion for creating efficient, 
 
 ## Education
 - **Bachelor of Science in Computer Science**
-  *University Name, Graduation Year*
+  *BTH Karskrona, 2018*
 
 ---
 
 ## Certifications
 - AWS Certified Developer - Associate
-
----
-
-## Contact
-- **Email:** john.doe@example.com
-- **LinkedIn:** [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
-- **GitHub:** [github.com/johndoe](https://github.com/johndoe)
-
----
-
-## Availability
-- Open to new freelance opportunities. Flexible hours and willing to discuss project details and requirements.
-
-
-
-<h1> Hi I'm Srinivas 👋</h1>
-
- <p>Full Stack Developer in Website Design and developement. I Spend most of the time coding outstanding projects with latest technology.</p>
-
 <p></p>
 
 🔭  Reach me out!
@@ -114,7 +102,18 @@ Experienced freelance software developer with a passion for creating efficient, 
 
 
 
-- :email: srinivasgaddam423@gmail.com
+---
+
+## Contact
+- **Email:** srinivasgaddam423@gmail.com
+- **LinkedIn:** [linkedin.com/in/johndoe](https://www.linkedin.com/in/futurism9879a342/)
+- **GitHub:** [github.com/johndoe](https://github.com/srinivasgpc)
+
+---
+
+## Availability
+- Open to new freelance opportunities. Flexible hours and willing to discuss project details and requirements.
+
 #### Github Stats
 
 ![Srinivas's github stats](https://github-readme-stats.vercel.app/api?username=srinivasgpc&count_private=true&theme=tokyonight&hide=contribs,prs)
